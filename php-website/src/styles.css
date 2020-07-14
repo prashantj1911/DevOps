@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #a4aebd;
+}
+
+P {
+	margin: 1rem;
+}
+
+body {
+	background-color: #c1c1c1;
+}
+h1 {
+	color: #5c06fc;
+}
+p {
+	color: rgb(20, 1, 87);
+}
